@@ -1,4 +1,4 @@
-This repository contains my master thesis pdf and code I've developed in the process.
+This repository contains my master thesis pdf and the code I've developed in the process.
 
 Here's the abstract:
 <p>
